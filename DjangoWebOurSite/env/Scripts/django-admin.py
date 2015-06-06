@@ -1,0 +1,5 @@
+#!C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\env\Scripts\python.exe
+from django.core import management
+
+if __name__ == "__main__":
+    management.execute_from_command_line()

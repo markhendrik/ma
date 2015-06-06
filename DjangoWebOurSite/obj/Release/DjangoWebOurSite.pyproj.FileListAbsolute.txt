@@ -1,0 +1,9 @@
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\bin\AzureSetup.cfg
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\bin\wfastcgi.py
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\obj\Release\deployment-updated-pyvenv.cfg
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\ptvs_virtualenv_proxy.py
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\obj\Release\web.config
+C:\Users\MarkH\Documents\Visual Studio 2012\Projects\DjangoWebOurSite\DjangoWebOurSite\obj\Release\web.debug.config
