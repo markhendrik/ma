@@ -56,7 +56,6 @@
     <None Include="d2f1ff7f-0ee0-4-231-b9ee - Web Deploy.pubxml" />
     <None Include="d2f1ff7f-0ee0-4-231-b9ee - FTP.pubxml" />
     <Content Include="requirements.txt" />
-    <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
     <Content Include="app\static\app\content\bootstrap.min.css" />
     <Content Include="app\static\app\content\site.css" />
